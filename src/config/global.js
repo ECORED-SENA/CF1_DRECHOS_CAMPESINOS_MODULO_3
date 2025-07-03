@@ -287,7 +287,7 @@ export default {
       referencia:
         'Presidencia de la República de Colombia. (2017). <em>Resolución 464 de 2017</em>. Diario Oficial. ',
       link:
-        'https://www.suin-juriscol.gov.co/clp/contenidos.dll/Resolucion/30051441?fn=document-frame.htm$f=templates$3.0"',
+        'https://www.suin-juriscol.gov.co/clp/contenidos.dll/Resolucion/30051441?fn=document-frame.htm$f=templates$3.0',
     },
     {
       referencia:
@@ -298,7 +298,7 @@ export default {
     {
       referencia:
         'UPRAColombia. (2024). <em>Caracterización y tipologías de la agricultura campesina, familiar y comunitaria</em> [video] YouTube. ',
-      link: 'https://www.youtube.com/watch?v=9hgCFR98d7Y"',
+      link: 'https://www.youtube.com/watch?v=9hgCFR98d7Y',
     },
     {
       referencia:
@@ -318,7 +318,7 @@ export default {
     {
       referencia:
         'Defensoría del Pueblo. (2015). <em>Derechos de los campesinos colombianos</em>. Delegada para Asuntos Agrarios y Tierras.',
-      link: 'https://www.defensoria.gov.co"',
+      link: 'https://www.defensoria.gov.co',
     },
     {
       referencia:
