@@ -300,20 +300,90 @@ export default {
         'UPRAColombia. (2024). <em>Caracterización y tipologías de la agricultura campesina, familiar y comunitaria</em> [video] YouTube. ',
       link: 'https://www.youtube.com/watch?v=9hgCFR98d7Y"',
     },
+    {
+      referencia:
+        'Blake, L. , Chohan, J., y Escobar, M. P. (2023). Agro-extractivism and neoliberal conservation: Campesino abandonment in the Boyacá páramos, Colombia. <em>Journal of Rural Studies</em>.',
+      link: '',
+    },
+    {
+      referencia:
+        'Chohan, J. (2024). The corporate food regime in conflict zones: Armed violence and agriculture in the Zona de Reserva Campesina-Valle del Río Cimitarra, Colombia. <em>Geoforum</em>.',
+      link: '',
+    },
+    {
+      referencia:
+        'Chohan, J., Téllez, J., Eisler, M., et al. (2023). Agropastoralism and re-peasantisation: The importance of mobility and social networks in the páramos of Boyacá, Colombia. <em>Agriculture and Human Values</em>.',
+      link: '',
+    },
+    {
+      referencia:
+        'Defensoría del Pueblo. (2015). <em>Derechos de los campesinos colombianos</em>. Delegada para Asuntos Agrarios y Tierras.',
+      link: 'https://www.defensoria.gov.co"',
+    },
+    {
+      referencia:
+        'Fraser, N. (2023). <em>Capitalismo caníbal</em> (1.ª ed.). Ciudad Autónoma de Buenos Aires: Siglo Veintiuno Editores.',
+      link: '',
+    },
+    {
+      referencia:
+        'HLPE. (2017). <em>La nutrición y los sistemas alimentarios</em>. Grupo de alto nivel de expertos en seguridad alimentaria y nutrición del Comité de Seguridad Alimentaria Mundial.',
+      link: '',
+    },
+    {
+      referencia:
+        'La Vía Campesina. (2021). <em>El caminar del feminismo campesino y popular en La Vía Campesina</em>.',
+      link: '',
+    },
+    {
+      referencia:
+        'Marcha Mundial de Mujeres. (2023). <em>La economía feminista como herramienta política de la Marcha Mundial de las Mujeres</em>.',
+      link: '',
+    },
+    {
+      referencia:
+        'Rodríguez, F. , Erazo, V., y Rendón, J. A. (2025). <em>Documento de preparación: Visita temática sobre mujeres campesinas y populares</em>. CampeSENA - Full Popular y Proyecto de caracterización economía campesina y popular. Documento de trabajo no publicado.',
+      link: '',
+    },
+    {
+      referencia:
+        'Rosset, P. (s.f.). <em>Metodología “de campesino a campesino”</em>. Propuesta para el SENA.',
+      link: '',
+    },
+    {
+      referencia:
+        'Sembradoras de Vida y Resistencia. (2024). <em>Cartilla de la Escuela Feminista de la Alianza por la Soberanía Alimentaria de los Pueblos de América Latina y el Caribe</em>.',
+      link: '',
+    },
+    {
+      referencia:
+        'SENA. (2024). <em>Caracterización de la población de la economía campesina: Departamento de Boyacá</em>. Servicio Nacional de Aprendizaje - SENA, Dirección de Promoción y Relaciones Corporativas.',
+      link: '',
+    },
+    {
+      referencia:
+        'Van der Ploeg, J. D. (2025). <em>Agricultura campesina: una promesa para el futuro</em>.',
+      link: '',
+    },
+    {
+      referencia:
+        'Van der Ploeg, J. D. (2025). <em>Hambre Cero: el campo</em>. Documento de trabajo.',
+      link: '',
+    },
   ],
   creditos: [
     {
       titulo: 'ECOSISTEMA DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Nombre completo',
-          cargo: 'Responsable del ecosistema',
+          nombre: 'Milady Tatiana Villamil Castellanos',
+          cargo: 'Líder del Ecosistema',
           centro: 'Dirección General',
         },
         {
-          nombre: 'Nombre completo',
+          nombre: 'Olga Constanza Bermudez Jaimes',
           cargo: 'Responsable de línea de producción',
-          centro: 'Centro XYZ - Regional XYZ',
+          centro: 'Dirección General',
         },
       ],
     },
@@ -321,9 +391,16 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Nombre del rol',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Ana Catalina Córdova ',
+          cargo: 'Experta temática',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Paola Alexandra Moya',
+          cargo: 'Evaluadora Instruccional',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
       ],
     },
@@ -331,19 +408,46 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Diseñador de contenidos',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Blanca Flor Tinoco Torres',
+          cargo: 'Diseñador de Contenidos Digitales',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
         {
-          nombre: 'Nombre responsable',
+          nombre: 'Manuel Felipe Echavarria Orozco',
           cargo: 'Desarrollador <i>full stack</i>',
-          centro: 'Centro XYZ - Regional XYZ',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Animador y productor audiovisual',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Alejandro Delgado Acosta',
+          cargo: 'Intérprete Lenguaje de señas',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Cristhian Giovanni Gordillo Segura',
+          cargo: 'Intérprete Lenguaje de señas',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Daniela Muñoz Bedoya',
+          cargo: 'Animador y Productor Multimedia	',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Carlos Eduardo	Garavito Parada',
+          cargo: 'Animador y Productor Multimedia',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Andrés Felipe Guevara Ariza',
+          cargo: 'Locución',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
       ],
     },
@@ -351,14 +455,28 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Validador y vinculador de recursos educativos digitales',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Aixa Natalia Sendoya Fernández',
+          cargo: 'Validador de Recursos Educativos Digitales',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
         {
-          nombre: 'Nombre responsable',
-          cargo: 'Evaluador de contenidos inclusivos y accesibles',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Jaime Hernán Tejada Llano',
+          cargo: 'Validador de Recursos Educativos Digitales',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Raúl Mosquera Serrano',
+          cargo: 'Evaluador para Contenidos Inclusivos y Accesibles',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Daniel Ricardo Mutis Gómez',
+          cargo: 'Evaluador para Contenidos Inclusivos y Accesibles',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
       ],
     },
