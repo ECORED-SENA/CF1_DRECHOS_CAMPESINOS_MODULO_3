@@ -236,7 +236,7 @@ export default {
         'documento que resume los ingresos, costos y gastos de una unidad productiva durante un período determinado.',
     },
     {
-      termino: 'Ingreso:',
+      termino: 'Ingreso',
       significado:
         'dinero o beneficios recibidos como resultado del trabajo productivo realizado en el campo.',
     },
@@ -293,7 +293,7 @@ export default {
       referencia:
         'Universidad Nacional de Quilmes. (s. f.). <em>La economía del trabajo</em>. ',
       link:
-        'http://biblioteca.municipios.unq.edu.ar/modules/mislibros/archivos/La_economia_del_traba.pdf"',
+        'http://biblioteca.municipios.unq.edu.ar/modules/mislibros/archivos/La_economia_del_traba.pdf',
     },
     {
       referencia:

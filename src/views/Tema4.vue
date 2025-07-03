@@ -162,32 +162,32 @@
               tr(style="background-color: #F6F6F6 !important")
                 td.text-center 2 de abril
                 td Venta de 15 arrobas de café
-                td.text-center $1.200.000
+                td.text-end $1.200.000
 
               tr
                 td.text-center 8 de abril
                 td Venta de 10 gallinas
-                td.text-center $500.000
+                td.text-end $500.000
 
               tr(style="background-color: #F6F6F6 !important")
                 td.text-center 15 de abril
                 td Venta de 5 kilos de queso casero
-                td.text-center $150.000
+                td.text-end $150.000
 
               tr
                 td.text-center 20 de abril
                 td Subsidio de programa agrícola
-                td.text-center $300.000
+                td.text-end $300.000
 
               tr(style="background-color: #F6F6F6 !important")
                 td.text-center 28 de abril
                 td Alquiler de una parcela pequeña
-                td.text-center $200.000
+                td.text-end $200.000
 
               tr
                 td.text-center #[b Total]
                 td
-                td.text-center #[b $2.350.000]
+                td.text-end #[b $2.350.000]
 
     p.mt-4 Con esta información, Don Pedro puede #[b planear sus gastos], decidir cuánto invertir en semillas nuevas, cuánto ahorrar y cuánto destinar a otras necesidades.
 
@@ -296,7 +296,7 @@
           p.text-center
             b Costos indirectos	
 
-          p.text-center Son gastos que apoyan varias actividades al mismo tiempo, no se asocian con un solo producto.
+          p.text-center Son gastos que apoyan varias actividades al mismo tiempo; No se asocian con un solo producto.
 
           p.text-center #[b Ejemplo.]  Electricidad de la finca, reparación de bomba de agua, compra de herramientas.
 
@@ -324,7 +324,7 @@
                 td Compra de semillas de maíz
                 td Costo directo
 
-                td.text-center $200.000
+                td.text-end $200.000
 
 
               tr
@@ -332,7 +332,7 @@
 
                 td Costo directo
 
-                td.text-center $150.000
+                td.text-end $150.000
 
 
               tr(style="background-color: #F6F6F6 !important")
@@ -340,7 +340,7 @@
 
                 td Costo directo
 
-                td.text-center $250.000
+                td.text-end $250.000
 
 
               tr
@@ -348,21 +348,21 @@
 
                 td Costo directo
 
-                td.text-center $100.000
+                td.text-end $100.000
 
               tr(style="background-color: #F6F6F6 !important")
                 td Reparación del sistema de riego
 
                 td Costo indirecto
 
-                td.text-center $50.000
+                td.text-end $50.000
 
 
 
               tr
                 td.text-center #[b Total de costos]
                 td
-                td.text-center #[b $750.000]
+                td.text-end #[b $750.000]
 
             
       .col-lg-3.d-lg-block.d-none
@@ -446,7 +446,7 @@
             figure
               img(src="@/assets/curso/tema4/img29.svg", alt="", style="width: 79px").m-auto
           .col-lg-10
-            p En palabras sencillas: Los #[b gastos] son pagos necesarios para el #[b buen funcionamiento de la unidad campesina], pero #[b no están directamente ligados] a un cultivo o a una cría de animales.
+            p En palabras sencillas: los #[b gastos] son pagos necesarios para el #[b buen funcionamiento de la unidad campesina], pero #[b no están directamente ligados] a un cultivo o a una cría de animales.
 
         p.mt-4
           b ¿Cómo diferenciar costos y gastos?
@@ -471,7 +471,7 @@
 
           p.text-center Se vincula directamente con el proceso de producción, como la siembra, cría o cosecha. Representa los desembolsos necesarios para generar un bien o servicio. 
 	
-          p.text-center.mb-3 #[b Ejemplo:] Compra de semillas de maíz para sembrar.
+          p.text-center.mb-3 #[b Ejemplo:] compra de semillas de maíz para sembrar.
 
       .col-lg-4.mb-4.mb-lg-0
         .crd.crd--grayGrad.h-tarj5(data-aos="flip-left")
@@ -483,7 +483,7 @@
 
           p.text-center Corresponde a pagos que permiten el funcionamiento general del negocio, sin una relación directa con un producto específico. 
 
-          p.text-center #[b Ejemplo: ] Pago del servicio de energía eléctrica.
+          p.text-center #[b Ejemplo: ] pago del servicio de energía eléctrica.
       
     p.mt-4 Ejemplos de gastos en una unidad campesina son: 
 

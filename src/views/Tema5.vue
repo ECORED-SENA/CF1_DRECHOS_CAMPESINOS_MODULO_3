@@ -93,7 +93,7 @@
 
                 li.d-flex.align-items-start.p-1.bg-7
                   span.icono-img
-                  p.mb-0 #[b Resultado final:] diferencia entre ingresos y egresos, que indica ganancia o pérdida
+                  p.mb-0 #[b Resultado final:] diferencia entre ingresos y egresos, que indica ganancia o pérdida.
 
           .col-lg-4.d-lg-block.d-none
             figure
@@ -139,7 +139,7 @@
       .col-lg-7
         .titulo-sexto.color-acento-contenido.mb-3.mt-4
           h5 Tabla 6. 
-          span Unidad productiva: Finca el buen sembrador. Enero – Junio
+          span Unidad productiva: finca el buen sembrador. Enero – Junio
 
         .tabla-a.ajuste___tabla.mb-5.mt-4(data-aos="zoom-in")
           table
@@ -346,19 +346,19 @@
         ul.lista-ul--color.mt-2.px-5
           li.d-flex.align-items-start
             span.icono-img
-            p.mb-0 Servicios públicos
+            p.mb-0 Servicios públicos.
 
           li.d-flex.align-items-start
             span.icono-img
-            p.mb-0 Transporte
+            p.mb-0 Transporte.
 
           li.d-flex.align-items-start
             span.icono-img
-            p.mb-0 Papelería
+            p.mb-0 Papelería.
 
           li.d-flex.align-items-start
             span.icono-img
-            p.mb-0 Reparaciones o mantenimiento
+            p.mb-0 Reparaciones o mantenimiento.
 
 
         .row.mt-4.align-items-center.justify-content-center

@@ -14,7 +14,7 @@
             figure.m-0.p-0.w-100.h-100.d-flex
               img(src='@/assets/curso/tema2/img1.png', alt='', class="w-100 h-100 object-fit-cover", style="margin-left:-10px")
           .col-lg
-            p Cuando una unidad campesina crece, empieza a relacionarse con normas que regulan la actividad económica. Esta sección ofrece una guía sencilla para identificar las principales obligaciones contables y tributarias, entendiendo cuándo y cómo aplican. Se busca que los campesinos puedan formalizar su actividad si así lo desean, aprovechar beneficios, y evitar complicaciones legales, siempre desde un enfoque claro y adaptado a su realidad.
+            p Cuando una unidad campesina crece, empieza a relacionarse con normas que regulan la actividad económica. Esta sección ofrece una guía sencilla para identificar las principales obligaciones contables y tributarias, entendiendo cuándo y cómo aplican. Se busca que los campesinos puedan formalizar su actividad si así lo desean, aprovechar beneficios y evitar complicaciones legales, siempre desde un enfoque claro y adaptado a su realidad.
 
     separador
     #t_2_1.titulo-segundo.color-acento-contenido
@@ -122,7 +122,7 @@
           .col-lg-9
             p.p-3 Se invita a leer el documento Derechos de los Campesinos y de Otras Personas que Trabajan en las Zonas Rurales, donde se aborda la declaración adoptada por el Consejo de Derechos Humanos de las Naciones Unidas el 28 de septiembre de 2018.
 
-            a.anexo.mb-4(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+            a.anexo.mb-4(:href="obtenerLink('/downloads/Anexo.pdf')" target="_blank")
               .anexo__icono
                 img(src="@/assets/template/icono-pdf.svg")
               .anexo__texto
@@ -132,7 +132,7 @@
 
         .row.align-items-center
           .col-lg-6
-            a.anexo.mb-4.mb-lg-0(href="https://en.wikipedia.org/wiki/Main_Page" target="_blank")
+            a.anexo.mb-4.mb-lg-0(href="https://www.suin-juriscol.gov.co/clp/contenidos.dll/Resolucion/30051441?fn=document-frame.htm$f=templates$3.0" target="_blank")
               .anexo__icono
                 img(src="@/assets/template/icono-link.svg")
               .anexo__texto
@@ -281,13 +281,13 @@
               img(src='@/assets/curso/tema1/img14.png', alt='', style="width: 270px").m-auto
           .col-lg-7
             p(style="color:black")
-              b ¿Sabías qué?
+              b ¿Sabías que?
 
-            p Lo invitamos a escuchar el siguiente Pódcast:
+            p Lo invitamos a escuchar el siguiente pódcast:
 
             TarjetaAudio.color-acento-botones.mb-3.bg-10.p-3(
               texto="Obligaciones según el nivel de formalidad"
-              :audio="require('@/assets/componentes/audios/audio-ej.mp3')"
+              :audio="require('@/assets/componentes/audios/audio2.wav')"
               @audio-hover="mostrarIndicadorTarjetaAudio = false"
             )
               .indicador--click(v-if="mostrarIndicadorTarjetaAudio")

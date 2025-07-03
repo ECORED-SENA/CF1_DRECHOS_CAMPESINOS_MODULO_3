@@ -54,7 +54,7 @@
           .row.mt-2
             figure
               .video
-                iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+                iframe(width="560" height="315" src="https://www.youtube.com/embed/Y7EfXZDM9Aw?si=gM_ZXtVGmEh5uZvH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
     .tarjeta.bg-6.p-4.mt-4
       .row.justify-content-around.align-items-center
@@ -67,7 +67,7 @@
               p.text-small.mb-0 Lo invitamos a ver el video de la UPRA sobre la caracterización y tipologías de la agricultura campesina, familiar y comunitaria, en el cual se explican los principales hallazgos de este estudio y su importancia para la formulación de políticas públicas rurales. 
     
             .col-sm-auto
-              a.boton.color-acento-botones(href="https://docs.google.com/document/d/1jVBfOd5V9GKLcxlabgO5ugooc6IHyGn5-JTTdtEkPMo/edit?usp=sharing" target="_blank")
+              a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=9hgCFR98d7Y" target="_blank")
                 span.text-white Enlace web
                 i.fas.fa-link.text-white
 
@@ -106,14 +106,14 @@
 
           .row.align-items-center
             .col-lg-6
-              a.anexo.mb-4.mb-lg-0(href="https://en.wikipedia.org/wiki/Main_Page" target="_blank")
+              a.anexo.mb-4.mb-lg-0(href="https://fian.org/files/is/htdocs/wp11102127_GNIAANVR7U/www/files/cartilla%20fian%20maqueta%20final%20-%20EBOOK-ES_compressed.pdf" target="_blank")
                 .anexo__icono
                   img(src="@/assets/template/icono-link.svg")
                 .anexo__texto
                   p #[b Enlace web.] Sembradoras de vida y resistencia.
 
             .col-lg-6
-              a.anexo.mb-4.mb-lg-0(href="https://en.wikipedia.org/wiki/Main_Page" target="_blank")
+              a.anexo.mb-4.mb-lg-0(href="https://www.fian.org/files/files/ES-TheCommonPot-21-WEB.pdf" target="_blank")
                 .anexo__icono
                   img(src="@/assets/template/icono-link.svg")
                 .anexo__texto
@@ -229,7 +229,7 @@
 
             .row
               .col-lg-6
-                a.anexo.mb-4.mb-lg-0(href="https://en.wikipedia.org/wiki/Main_Page" target="_blank")
+                a.anexo.mb-4.mb-lg-0(href="http://biblioteca.municipios.unq.edu.ar/modules/mislibros/archivos/La_economia_del_traba.pdf" target="_blank")
                   .anexo__icono
                     img(src="@/assets/template/icono-link.svg")
                   .anexo__texto
@@ -247,13 +247,13 @@
               img(src='@/assets/curso/tema1/img14.png', alt='', style="width: 270px").m-auto
           .col-lg-7
             p(style="color:black")
-              b ¿Sabías qué?
+              b ¿Sabías que?
 
-            p Lo invitamos a escuchar el siguiente Pódcast:
+            p Lo invitamos a escuchar el siguiente pódcast:
 
             TarjetaAudio.color-acento-botones.mb-3.bg-10.p-3(
               texto="La contribución de las mujeres a la economía campesina "
-              :audio="require('@/assets/componentes/audios/audio-ej.mp3')"
+              :audio="require('@/assets/componentes/audios/audio1.wav')"
               @audio-hover="mostrarIndicadorTarjetaAudio = false"
             )
               .indicador--click(v-if="mostrarIndicadorTarjetaAudio")
