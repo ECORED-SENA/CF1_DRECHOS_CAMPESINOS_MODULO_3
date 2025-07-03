@@ -287,7 +287,7 @@
 
             TarjetaAudio.color-acento-botones.mb-3.bg-10.p-3(
               texto="Obligaciones según el nivel de formalidad"
-              :audio="require('@/assets/componentes/audios/audio2.wav')"
+              :audio="require('@/assets/componentes/audios/audio2.mp3')"
               @audio-hover="mostrarIndicadorTarjetaAudio = false"
             )
               .indicador--click(v-if="mostrarIndicadorTarjetaAudio")

@@ -253,7 +253,7 @@
 
             TarjetaAudio.color-acento-botones.mb-3.bg-10.p-3(
               texto="La contribución de las mujeres a la economía campesina "
-              :audio="require('@/assets/componentes/audios/audio1.wav')"
+              :audio="require('@/assets/componentes/audios/audio1.mp3')"
               @audio-hover="mostrarIndicadorTarjetaAudio = false"
             )
               .indicador--click(v-if="mostrarIndicadorTarjetaAudio")
