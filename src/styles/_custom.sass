@@ -488,6 +488,61 @@ figcaption
     background-color: #FFCC00
 
 
+/* Contenedor general */
+.tablas-familia 
+  padding: 1rem
+  background-color: #f9f9f9
+  border-radius: 10px
+
+
+/* Scroll horizontal en móviles */
+.tablas-familia .tabla-responsive 
+  overflow-x: auto
+  margin-bottom: 1.5rem
+  border-radius: 8px
+
+.tablas-familia table
+  width: 100%
+  border-collapse: collapse
+  min-width: 300px
+  background-color: #fff
+
+.tablas-familia table th,
+.tablas-familia table td 
+  border: 1px solid #ddd
+  padding: 10px
+  text-align: left
+  font-size: 0.95rem
+
+
+/* Encabezados */
+.tablas-familia table thead th 
+  background-color: #9CC8FF
+  color: #000 !important
+  text-align: center
+  font-weight: bold
+
+
+/* Filas alternadas */
+.tablas-familia table tbody tr:nth-child(even) 
+  background-color: #f1f1f1
+
+
+/* Filas con totales */
+.tablas-familia table tbody tr.fw-bold td 
+  font-weight: bold
+  background-color: white
+  color: #000
+
+
+/* Diseño responsivo en escritorio */
+@media (min-width: 992px) 
+  .tablas-familia 
+    display: flex
+    gap: 20px
+  
+  .tablas-familia .tabla-responsive 
+    flex: 1
 
 
 

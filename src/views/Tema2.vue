@@ -37,17 +37,17 @@
             figure.m-0.p-0.w-100.h-100.d-flex
               img(src='@/assets/curso/tema2/img3.png', alt='', class="w-100 h-100 object-fit-cover", style="margin-left:-10px")
           .col-lg
-            p Este marco establece #[b principios básicos] para el:
+            p Este marco establece #[b principios básicos] para:
 
             .row.justify-content-center.align-items-stretch
               .col-lg-3.d-flex
-                p.p-4.bg-11.text-center.flex-fill #[b Reconocimiento]
+                p.p-4.bg-11.text-center.flex-fill #[b El reconocimiento.]
 
               .col-lg-3.d-flex
-                p.p-4.bg-11.text-center.flex-fill #[b Medición]
+                p.p-4.bg-11.text-center.flex-fill #[b La medición.]
 
               .col-lg-4.d-flex
-                p.p-4.bg-11.text-center.flex-fill #[b Presentación de activos, pasivos, ingresos y gastos]
+                p.p-4.bg-11.text-center.flex-fill #[b La presentación de activos, pasivos, ingresos y gastos.]
 
             p Todo ello utilizando #[b criterios simplificados], acordes con la realidad de entidades de tamaño reducido.
 

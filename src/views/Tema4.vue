@@ -138,9 +138,9 @@
         figure
           img(src='@/assets/curso/tema4/img11.png', alt='', style="width: 317px").m-auto
 
-    .titulo-tres.mt-5: h3 Ejemplo de cálculo del patrimonio
+    .titulo-tres.mt-5: h3 Ejemplo de registro de ingresos
 
-    p.mt-4 Supongamos que, en el mes de abril, Don Pedro, un campesino, tuvo los siguientes ingresos:
+    p.mt-4 Supongamos que, en el mes de abril, don pedro, un campesino, tuvo los siguientes ingresos:
 
     .row.mt-4.align-items-center.justify-content-center
       .col-lg-3.d-lg-block.d-none
@@ -149,7 +149,7 @@
       .col-lg-8
         .titulo-sexto.color-acento-contenido.mb-3.mt-4
           h5 Tabla 3. 
-          span Registro mensual de ingresos – Abril
+          span Registro mensual de ingresos – abril
         
         .table-responsive
           table.table.table-bordered.tabla-compacta
@@ -162,34 +162,34 @@
               tr(style="background-color: #F6F6F6 !important")
                 td.text-center 2 de abril
                 td Venta de 15 arrobas de café
-                td.text-end $1.200.000
+                td.text-end $ 1.200.000
 
               tr
                 td.text-center 8 de abril
                 td Venta de 10 gallinas
-                td.text-end $500.000
+                td.text-end $ 500.000
 
               tr(style="background-color: #F6F6F6 !important")
                 td.text-center 15 de abril
                 td Venta de 5 kilos de queso casero
-                td.text-end $150.000
+                td.text-end $ 150.000
 
               tr
                 td.text-center 20 de abril
                 td Subsidio de programa agrícola
-                td.text-end $300.000
+                td.text-end $ 300.000
 
               tr(style="background-color: #F6F6F6 !important")
                 td.text-center 28 de abril
                 td Alquiler de una parcela pequeña
-                td.text-end $200.000
+                td.text-end $ 200.000
 
               tr
                 td.text-center #[b Total]
                 td
-                td.text-end #[b $2.350.000]
+                td.text-end #[b $ 2.350.000]
 
-    p.mt-4 Con esta información, Don Pedro puede #[b planear sus gastos], decidir cuánto invertir en semillas nuevas, cuánto ahorrar y cuánto destinar a otras necesidades.
+    p.mt-4 Con esta información, don pedro puede #[b planear sus gastos], decidir cuánto invertir en semillas nuevas, cuánto ahorrar y cuánto destinar a otras necesidades.
 
     .titulo-tres.mt-5: h3 Recomendación práctica
 
@@ -296,7 +296,7 @@
           p.text-center
             b Costos indirectos	
 
-          p.text-center Son gastos que apoyan varias actividades al mismo tiempo; No se asocian con un solo producto.
+          p.text-center Son gastos que apoyan varias actividades al mismo tiempo; no se asocian con un solo producto.
 
           p.text-center #[b Ejemplo.]  Electricidad de la finca, reparación de bomba de agua, compra de herramientas.
 
@@ -324,7 +324,7 @@
                 td Compra de semillas de maíz
                 td Costo directo
 
-                td.text-end $200.000
+                td.text-end $ 200.000
 
 
               tr
@@ -332,7 +332,7 @@
 
                 td Costo directo
 
-                td.text-end $150.000
+                td.text-end $ 150.000
 
 
               tr(style="background-color: #F6F6F6 !important")
@@ -340,7 +340,7 @@
 
                 td Costo directo
 
-                td.text-end $250.000
+                td.text-end $ 250.000
 
 
               tr
@@ -348,21 +348,21 @@
 
                 td Costo directo
 
-                td.text-end $100.000
+                td.text-end $ 100.000
 
               tr(style="background-color: #F6F6F6 !important")
                 td Reparación del sistema de riego
 
                 td Costo indirecto
 
-                td.text-end $50.000
+                td.text-end $ 50.000
 
 
 
               tr
                 td.text-center #[b Total de costos]
                 td
-                td.text-end #[b $750.000]
+                td.text-end #[b $ 750.000]
 
             
       .col-lg-3.d-lg-block.d-none
@@ -589,13 +589,13 @@
 
     .titulo-tres.mt-5: h3 Ejemplo de registro de gastos
 
-    p.mt-4 Durante el mes de mayo, Don José y su familia llevaron un registro detallado de sus gastos. Esto les ayudó a identificar en qué se utilizó el dinero, detectar oportunidades de ahorro y organizar mejor los meses siguientes.
+    p.mt-4 Durante el mes de mayo, don josé y su familia llevaron un registro detallado de sus gastos. Esto les ayudó a identificar en qué se utilizó el dinero, detectar oportunidades de ahorro y organizar mejor los meses siguientes.
 
     .row.mt-4.align-items-center
       .col-lg-7
         .titulo-sexto.color-acento-contenido.mb-3.mt-4
           h5 Tabla 5. 
-          span Registro de gastos – Familia de Don José (mayo)
+          span Registro de gastos – familia de don josé (mayo)
         
         .tabla-a.ajuste___tabla.mb-5.mt-4(data-aos="zoom-in")
           table
@@ -610,21 +610,21 @@
 
                 td.text-start Pago de electricidad de la finca
 
-                td.text-end $50.000
+                td.text-end $ 50.000
 
               tr
                 td.text-start 10 de mayo
 
                 td.text-start Transporte a feria campesina
 
-                td.text-end $30.000
+                td.text-end $ 30.000
 
 
               tr(style="background-color: #F6F6F6")
                 td.text-start 15 de mayo
 
                 td.text-start Compra de papelería (cuadernos)
-                td.text-end $10.000
+                td.text-end $ 10.000
 
 
               tr
@@ -632,12 +632,12 @@
 
                 td.text-start Reparación de la cerca del corral
 
-                td.text-end $40.000
+                td.text-end $ 40.000
 
               tr(style="background-color: #F6F6F6")
                 td.text-start #[b Total]
                 td
-                td.text-end #[b $130.000]
+                td.text-end #[b $ 130.000]
 
       .col-lg-5.d-lg-block.d-none
         figure

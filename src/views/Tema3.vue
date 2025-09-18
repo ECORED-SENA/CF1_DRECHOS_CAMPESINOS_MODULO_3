@@ -139,8 +139,8 @@
                             .col-8
                               img(src="@/assets/curso/tema3/img8.svg", alt='', style="width: 90px").m-auto
                           p.text-center
-                            b Préstamo bancario	Crédito
-                          p.text-center.mb-0 solicitado para comprar ganado, maquinaria o herramientas agrícolas.
+                            b Préstamo bancario	
+                          p.text-center.mb-0 Crédito solicitado para comprar ganado, maquinaria o herramientas agrícolas.
 
                         .tarjeta.tarjeta--slyder.p-4
                           .row.justify-content-center.mb-3
@@ -237,22 +237,56 @@
 
     p.mt-4 A continuación, se presenta un ejemplo práctico que ilustra cómo calcular el patrimonio en una unidad campesina:
 
-    .row.mt-4.align-items-center
-      .col-lg-6
-        .titulo-sexto.color-acento-contenido.mb-3.mt-4
-          h5 Tabla 1. 
-          span Activos de la familia campesina
+    .tablas-familia
+      .row
+        .col-lg-6
+          .tabla-responsive
+            .titulo-sexto.color-acento-contenido.mb-3.mt-4
+              h5 Tabla 1. 
+              span Activos de la familia campesina
+            table
+              thead
+                tr
+                  th Activos
+                  th Valor estimado
+              tbody
+                tr
+                  td Parcela de tierra
+                  td.text-end $ 20 millones
+                tr
+                  td Herramientas y maquinaria
+                  td.text-end $ 3 millones
+                tr
+                  td Ganado (vacas y cerdos)
+                  td.text-end $ 5 millones
+                tr
+                  td Dinero en efectivo ahorrado
+                  td.text-end $ 2 millones
+                tr.fw-bold
+                  td Total de activos
+                  td.text-end $ 30 millones
 
-        figure.mt-4
-          img(src='@/assets/curso/tema3/img19.svg', alt='', style="width: 505px")
+        .col-lg-6
+          .tabla-responsive
+            .titulo-sexto.color-acento-contenido.mb-3.mt-4
+              h5 Tabla 2. 
+              span Pasivos de la familia campesina
+            table
+              thead
+                tr
+                  th Pasivos
+                  th Valor estimado
+              tbody
+                tr
+                  td Préstamo bancario
+                  td.text-end $ 4 millones
+                tr
+                  td Deuda con proveedor de abonos
+                  td.text-end $ 1 millón
+                tr.fw-bold
+                  td Total de pasivos
+                  td.text-end $ 5 millones
 
-      .col-lg-6
-        .titulo-sexto.color-acento-contenido.mb-3.mt-4
-          h5 Tabla 2. 
-          span Pasivos de la familia campesina
-
-        figure.mt-4
-          img(src='@/assets/curso/tema3/img20.svg', alt='', style="width: 505px")
 
     .row.mt-4.justify-content-center
       .col-lg-8
@@ -263,7 +297,7 @@
           .col-lg-10
             p 
               b Cálculo del patrimonio final:
-            p $30 millones (activos) − $5 millones (pasivos) = #[b $25 millones de patrimonio].
+            p $ 30 millones (activos) − $ 5 millones (pasivos) = #[b $ 25 millones de patrimonio].
 
 
     .titulo-tres.mt-5: h3 ¿Por qué es importante conocer el patrimonio?

@@ -20,7 +20,7 @@ export default {
       tema: 'Contabilidad y gestión financiera en unidades campesinas',
       titulo: 'Cuestionario',
       introduccion:
-        '<b> Objetivo:</b> Identificar los conceptos fundamentales sobre la economía campesina, los registros contables y la normativa contable y tributaria aplicables a las unidades productivas rurales.',
+        '<b> Objetivo:</b> identificar los conceptos fundamentales sobre la economía campesina, los registros contables y la normativa contable y tributaria aplicables a las unidades productivas rurales.',
       barajarPreguntas: true,
       titulo_aprobado: '¡BUEN TRABAJO!',
       titulo_reprobado: 'VUELVA A INTENTARLO.',
@@ -50,7 +50,7 @@ export default {
             },
             {
               id: 'd',
-              texto: 'Reducir el trabajo familiar en el campo',
+              texto: 'Reducir el trabajo familiar en el campo.',
               esCorrecta: false,
             },
           ],
@@ -339,7 +339,7 @@ export default {
           opciones: [
             {
               id: 'a',
-              texto: 'Falso',
+              texto: 'Falso.',
               esCorrecta: false,
             },
             {
@@ -360,7 +360,7 @@ export default {
           opciones: [
             {
               id: 'a',
-              texto: 'Falso',
+              texto: 'Falso.',
               esCorrecta: true,
             },
             {
@@ -381,7 +381,7 @@ export default {
           opciones: [
             {
               id: 'a',
-              texto: 'Falso',
+              texto: 'Falso.',
               esCorrecta: false,
             },
             {
@@ -402,7 +402,7 @@ export default {
           opciones: [
             {
               id: 'a',
-              texto: 'Falso',
+              texto: 'Falso.',
               esCorrecta: true,
             },
             {
@@ -423,7 +423,7 @@ export default {
           opciones: [
             {
               id: 'a',
-              texto: 'Falso',
+              texto: 'Falso.',
               esCorrecta: false,
             },
             {

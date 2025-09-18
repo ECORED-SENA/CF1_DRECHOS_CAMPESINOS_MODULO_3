@@ -47,7 +47,7 @@ export default {
             numero: '2.1',
             titulo:
               'Principales normas contables aplicables a unidades campesinas',
-            hash: 't_2_2',
+            hash: 't_2_1',
           },
           {
             numero: '2.2',
@@ -166,7 +166,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/MODULO_3_CF01_DU.pdf',
+        download: 'downloads/MODULO_3_CF01_DU.zip',
       },
       {
         icono: 'fas fa-download',
@@ -184,15 +184,15 @@ export default {
     {
       tema: 'El campesinado',
       referencia:
-        'González, D. (2018). .El campesinado y el arte de la agricultura. Un manifiesto chayanoviano de Jan Douwe van der Ploeg.',
-      tipo: 'Articulo',
+        'González, D. (2018). El campesinado y el arte de la agricultura. Un manifiesto chayanoviano de Jan Douwe van der Ploeg.',
+      tipo: 'Artículo',
       link:
         'https://www.researchgate.net/publication/329861429_El_campesinado_y_el_arte_de_la_agricultura_Un_manifiesto_chayanoviano_de_Jan_Douwe_van_der_Ploeg',
     },
     {
       tema: 'Reforma agraria',
       referencia:
-        'Jorge Eduardo Londoño Ulloa. (2024). Profesor Jan Douwe Van Der Ploeg - Podcast con Fundamento [Archivo de video] Youtube.',
+        'Jorge Eduardo Londoño Ulloa. (2024). Profesor Jan Douwe Van Der Ploeg - Pódcast con Fundamento [Archivo de video] YouTube.',
       tipo: 'Video',
       link:
         'https://www.youtube.com/watch?v=BAOLNAu_OYA&amp;ab_channel=JorgeEduardoLondo%C3%B1oUlloa',
@@ -200,7 +200,7 @@ export default {
     {
       tema: 'CampeSENA',
       referencia:
-        'Jorge Eduardo Londoño Ulloa. (2024). La visita del profesor Jan Douwe van der Ploeg.  [Archivo de video] Youtube.',
+        'Jorge Eduardo Londoño Ulloa. (2024). La visita del profesor Jan Douwe van der Ploeg. [Archivo de video] YouTube.',
       tipo: 'Video',
       link:
         'https://www.youtube.com/watch?v=CP3E0yVTGds&amp;ab_channel=JorgeEduardoLondo%C3%B1oUlloa',
@@ -208,7 +208,7 @@ export default {
     {
       tema: 'Reforma Agraria y la soberanía alimentaria',
       referencia:
-        'Jorge Eduardo Londoño Ulloa. (2024). Estrategia CampeSENA, su aporte a la Reforma Agraria y la soberanía alimentaria [Archivo de video] Youtube.',
+        'Jorge Eduardo Londoño Ulloa. (2024). Estrategia CampeSENA, su aporte a la Reforma Agraria y la soberanía alimentaria [Archivo de video] YouTube.',
       tipo: 'Video',
       link:
         'https://www.youtube.com/watch?v=Nky7NZlN6v4&amp;ab_channel=JorgeEduardoLondo%C3%B1oUlloa',
@@ -342,7 +342,7 @@ export default {
     },
     {
       referencia:
-        'Rodríguez, F. , Erazo, V., y Rendón, J. A. (2025). <em>Documento de preparación: Visita temática sobre mujeres campesinas y populares</em>. CampeSENA - Full Popular y Proyecto de caracterización economía campesina y popular. Documento de trabajo no publicado.',
+        'Rodríguez, F., Erazo, V., y Rendón, J. A. (2025). <em>Documento de preparación: Visita temática sobre mujeres campesinas y populares</em>. CampeSENA - Full Popular y Proyecto de caracterización economía campesina y popular. Documento de trabajo no publicado.',
       link: '',
     },
     {
@@ -391,7 +391,7 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Ana Catalina Córdova ',
+          nombre: 'Ana Catalina Córdoba ',
           cargo: 'Experta temática',
           centro:
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
@@ -421,25 +421,25 @@ export default {
         },
         {
           nombre: 'Alejandro Delgado Acosta',
-          cargo: 'Intérprete Lenguaje de señas',
+          cargo: 'Intérprete lenguaje de señas',
           centro:
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
         {
           nombre: 'Cristhian Giovanni Gordillo Segura',
-          cargo: 'Intérprete Lenguaje de señas',
+          cargo: 'Intérprete lenguaje de señas',
           centro:
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
         {
           nombre: 'Daniela Muñoz Bedoya',
-          cargo: 'Animador y Productor Multimedia	',
+          cargo: 'Animador y productor multimedia	',
           centro:
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
         {
           nombre: 'Carlos Eduardo	Garavito Parada',
-          cargo: 'Animador y Productor Multimedia',
+          cargo: 'Animador y productor multimedia',
           centro:
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
@@ -456,25 +456,25 @@ export default {
       autores: [
         {
           nombre: 'Aixa Natalia Sendoya Fernández',
-          cargo: 'Validador de Recursos Educativos Digitales',
+          cargo: 'Validador de recursos educativos digitales',
           centro:
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
         {
           nombre: 'Jaime Hernán Tejada Llano',
-          cargo: 'Validador de Recursos Educativos Digitales',
+          cargo: 'Validador de recursos educativos digitales',
           centro:
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
         {
           nombre: 'Raúl Mosquera Serrano',
-          cargo: 'Evaluador para Contenidos Inclusivos y Accesibles',
+          cargo: 'Evaluador para contenidos inclusivos y accesibles',
           centro:
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
         {
           nombre: 'Daniel Ricardo Mutis Gómez',
-          cargo: 'Evaluador para Contenidos Inclusivos y Accesibles',
+          cargo: 'Evaluador para contenidos inclusivos y accesibles',
           centro:
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },

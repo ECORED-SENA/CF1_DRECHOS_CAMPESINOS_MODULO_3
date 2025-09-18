@@ -139,7 +139,7 @@
       .col-lg-7
         .titulo-sexto.color-acento-contenido.mb-3.mt-4
           h5 Tabla 6. 
-          span Unidad productiva: finca el buen sembrador. Enero – Junio
+          span Unidad productiva: finca el buen sembrador. enero – junio
 
         .tabla-a.ajuste___tabla.mb-5.mt-4(data-aos="zoom-in")
           table
@@ -153,63 +153,63 @@
                 td.text-end 
               tr
                 td.text-start Venta de yuca
-                td.text-end $2.000.000
+                td.text-end $ 2.000.000
               tr(style="background-color: #F6F6F6")
                 td.text-start Venta de miel de abejas
-                td.text-end $800.000
+                td.text-end $ 800.000
               tr
                 td.text-start Apoyo programa de abejas
-                td.text-end $400.000
+                td.text-end $ 400.000
               tr(style="background-color: #F6F6F6")
                 td.text-start.fw-bold Total ingresos
-                td.text-end.fw-bold $3.200.000
+                td.text-end.fw-bold $ 3.200.000
 
               tr
-                td.text-start #[b costos?]
+                td.text-start #[b Costos]
                 td.text-end 
               tr(style="background-color: #F6F6F6")
                 td.text-start Compra de semillas
-                td.text-end $300.000
+                td.text-end $ 300.000
               tr
                 td.text-start Compra de abono
-                td.text-end $200.000
+                td.text-end $ 200.000
               tr(style="background-color: #F6F6F6")
                 td.text-start Alimentación de abejas
-                td.text-end $100.000
+                td.text-end $ 100.000
               tr
                 td.text-start Pago a ayudantes
-                td.text-end $400.000
+                td.text-end $ 400.000
               tr(style="background-color: #F6F6F6")
                 td.text-start.fw-bold Total costos
-                td.text-end.fw-bold $1.000.000
+                td.text-end.fw-bold $ 1.000.000
 
               tr
                 td.text-start #[b Gastos]
                 td.text-end 
               tr(style="background-color: #F6F6F6")
                 td.text-start Pago de agua de la finca
-                td.text-end $80.000
+                td.text-end $ 80.000
               tr
                 td.text-start Transporte a feria agrícola
-                td.text-end $120.000
+                td.text-end $ 120.000
               tr(style="background-color: #F6F6F6")
                 td.text-start Reparación de tanque de agua
-                td.text-end $50.000
+                td.text-end $ 50.000
               tr
                 td.text-start.fw-bold Total gastos
-                td.text-end.fw-bold $250.000
+                td.text-end.fw-bold $ 250.000
 
               tr(style="background-color: #F6F6F6")
                 td.text-start.fw-bold Resultado final
                 td.text-end 
               tr
                 td.text-start Ganancia obtenida
-                td.text-end.fw-bold $1.950.000
+                td.text-end.fw-bold $ 1.950.000
 
       .col-lg-4
         .row.p-4.bg-21
           p.mb-0.fw-bold Cálculo:
-          p 3.200.000 − (1.000.000 + 250.000) = 1.950.000
+          p $ 3.200.000 − ($ 1.000.000 + $ 250.000) = $ 1.950.000
 
         .row.p-2.bg-11.mt-4
           p Consejos prácticos
@@ -266,19 +266,19 @@
 
                     td.text-start Venta de plátano
 
-                    td.text-end $500.000
+                    td.text-end $ 500.000
 
                   tr(style="background-color: white")
                     td.text-start 7 de enero
 
                     td.text-start Venta de leche
 
-                    td.text-end $200.000
+                    td.text-end $ 200.000
 
                   tr(style="background-color: #F6F6F6")
                     td.text-start 12 de enero
                     td.text-start Subsidio programa agrícola
-                    td.text-end $300.000
+                    td.text-end $ 300.000
         
 
       div(titulo="Paso 2.  Anotar todos los costos")
@@ -312,7 +312,7 @@
               h5 Tabla 8. 
               span Ejemplo de registro de costos:
 
-            .tabla-a.ajuste___tabla.mb-5.mt-4(data-aos="zoom-in")
+            .tabla-a.ajuste___tabla.mb-5.mt-4
               table
                 thead
                   tr
@@ -364,8 +364,8 @@
         .row.mt-4.align-items-center.justify-content-center
           .col-lg-8
             .titulo-sexto.color-acento-contenido.mb-3.mt-4
-              h5 Tabla 8. 
-              span Ejemplo de registro de costos:
+              h5 Tabla 9. 
+              span Ejemplo de registro de gastos:
 
             .tabla-a.ajuste___tabla.mb-2.mt-4
               table
@@ -380,14 +380,14 @@
 
                     td.text-start Pago de energía eléctrica
 
-                    td.text-end $40.000
+                    td.text-end $ 40.000
 
                   tr(style="background-color: white")
                     td.text-start 15 de enero
 
                     td.text-start Transporte a feria campesina
 
-                    td.text-end $30.000
+                    td.text-end $ 30.000
 
 
       div(titulo="Paso 4. Sumar todo")
@@ -418,19 +418,19 @@
                 tbody
                   tr(style="background-color: #F6F6F6")
                     td.text-start Total ingresos
-                    td.text-end $1.000.000
+                    td.text-end $ 1.000.000
 
                   tr(style="background-color: white")
                     td.text-start Total costos
-                    td.text-end $330.000
+                    td.text-end $ 330.000
 
                   tr(style="background-color: #F6F6F6")
                     td.text-start Total gastos
-                    td.text-end $70.000
+                    td.text-end $ 70.000
         
           
         p.mt-4.px-5.mb-0.fw-bold Cálculo del resultado:
-        p.px-5 1.000.000 − (330.000 + 70.000) = 600.000
+        p.px-5 $ 1.000.000 − ($ 330.000 + $ 70.000) = $ 600.000
 
         p.px-5.mb-0.fw-bold Resultado final:
         p.px-5 Don Anselmo obtuvo una ganancia de $600.000 en el mes de enero.
@@ -466,22 +466,22 @@
           ul.lista-ul--color.mt-2.px-3
             li.d-flex.align-items-start.p-1.bg-7
               span.icono-img
-              p.mb-0 Utilizar un cuaderno dividido en secciones: Ingresos, Costos y Gastos.
+              p.mb-0 Revisar el informe cada mes, para identificar cómo marcha la finca y tomar decisiones a tiempo.
 
             li.d-flex.align-items-start.p-1.bg-7
               span.icono-img
-              p.mb-0 Registrar los movimientos económicos diariamente, con datos claros y completos.
+              p.mb-0 Corregir cualquier omisión lo antes posible: es mejor ajustar un error que perder el control financiero.
 
             li.d-flex.align-items-start.p-1.bg-7
               span.icono-img
-              p.mb-0 Guardar recibos o comprobantes de compras importantes, para respaldar la información.
+              p.mb-0 Ser constante y organizado vale más que tener estudios técnicos.
 
       .col-lg-6
         figure
           img(src='@/assets/curso/tema5/img10.png', alt='', style="width: 610px").m-auto
 
 
-    p.mt-4 Un informe contable claro y bien llevado se convierte en una herramienta poderosa para fortalecer el bienestar y el crecimiento de la unidad productiva campesina.
+    p.mt-4 Un informe contable, claro y bien llevado se convierte en una herramienta poderosa para fortalecer el bienestar y el crecimiento de la unidad productiva campesina.
 
     separador
     #t_5_3.titulo-segundo.color-acento-contenido
@@ -548,7 +548,7 @@
 
     .titulo-tres.mt-5: h3 Aspectos a analizar en el informe contable
 
-    p.mt-4 A continuación, se resume los elementos que deben evaluarse al interpretar el informe:
+    p.mt-4 A continuación, se resumen los elementos que deben evaluarse al interpretar el informe:
 
     .row.bg-13
       .col-12 
@@ -618,32 +618,32 @@
               tr(style="background-color: #F6F6F6")
                 td.text-start Total ingresos
 
-                td.text-end $2.500.000
+                td.text-end $ 2.500.000
 
               tr
                 td.text-start Total costos
 
-                td.text-end $1.500.000
+                td.text-end $ 1.500.000
 
               tr(style="background-color: #F6F6F6")
                 td.text-start Total gastos
 
-                td.text-end $400.000
+                td.text-end $ 400.000
 
               tr
                 td.text-start Ganancia
-                td.text-end $600.000
+                td.text-end $ 600.000
 
       .col-lg-4.d-flex.flex-column.justify-content-end.mt-4
         .row.p-4.bg-21
           p.mb-0.fw-bold Cálculo:
-          p 3.200.000 − (1.000.000 + 250.000) = 1.950.000
+          p $ 3.200.000 − ($ 1.000.000 + $ 250.000) = $ 1.950.000
 
 
 
     .titulo-tres.m-neg: h3 Interpretación sencilla
 
-    p.mt-4 Don Manuel obtuvo una ganancia de $600.000. Sin embargo, considera que el margen fue bajo en relación con el esfuerzo invertido. Al analizar el informe, detecta que gastó más de $200.000 en transporte. Como medida, decide coordinar viajes compartidos con otros campesinos para reducir este gasto en el próximo ciclo. Las decisiones que pueden tomarse tras la interpretación son: 
+    p.mt-4 Don Manuel obtuvo una ganancia de $ 600.000. Sin embargo, considera que el margen fue bajo en relación con el esfuerzo invertido. Al analizar el informe, detecta que gastó más de $ 200.000 en transporte. Como medida, decide coordinar viajes compartidos con otros campesinos para reducir este gasto en el próximo ciclo. Las decisiones que pueden tomarse tras la interpretación son: 
 
     .row.bg-5.mt-4
       .col-12

@@ -34,7 +34,7 @@
                   ul.lista-ul--color.bg-7.mt-2.px-2
                     li.d-flex.align-items-start
                       span.icono-img
-                      p.mb-0 Se distingue por su tendencia a la autosuficiencia, equilibrando la producción para el consumo interno con la comercialización de excedentes.
+                      p.mb-0 Su finalidad principal no es la acumulación de capital, sino asegurar el abastecimiento alimentario y la sostenibilidad del entorno comunitario. 
 
                   ul.lista-ul--color.bg-7.mt-2.px-2
                     li.d-flex.align-items-start
