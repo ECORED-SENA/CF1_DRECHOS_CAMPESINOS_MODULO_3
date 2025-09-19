@@ -166,7 +166,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/MODULO_3_CF01_DU.zip',
+        download: 'downloads/TL_DC_M3_RFC_CF01_DU.zip',
       },
       {
         icono: 'fas fa-download',
@@ -318,7 +318,7 @@ export default {
     {
       referencia:
         'Defensoría del Pueblo. (2015). <em>Derechos de los campesinos colombianos</em>. Delegada para Asuntos Agrarios y Tierras.',
-      link: 'https://www.defensoria.gov.co',
+      link: 'https://www.defensoria.gov.co/agrarios-tierras',
     },
     {
       referencia:
