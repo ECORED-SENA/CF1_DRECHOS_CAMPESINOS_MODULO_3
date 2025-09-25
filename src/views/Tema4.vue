@@ -140,7 +140,7 @@
 
     .titulo-tres.mt-5: h3 Ejemplo de registro de ingresos
 
-    p.mt-4 Supongamos que, en el mes de abril, don pedro, un campesino, tuvo los siguientes ingresos:
+    p.mt-4 Supongamos que, en el mes de abril, Don Pedro, un campesino, tuvo los siguientes ingresos:
 
     .row.mt-4.align-items-center.justify-content-center
       .col-lg-3.d-lg-block.d-none
@@ -189,7 +189,7 @@
                 td
                 td.text-end #[b $ 2.350.000]
 
-    p.mt-4 Con esta información, don pedro puede #[b planear sus gastos], decidir cuánto invertir en semillas nuevas, cuánto ahorrar y cuánto destinar a otras necesidades.
+    p.mt-4 Con esta información, Don Pedro puede #[b planear sus gastos], decidir cuánto invertir en semillas nuevas, cuánto ahorrar y cuánto destinar a otras necesidades.
 
     .titulo-tres.mt-5: h3 Recomendación práctica
 
@@ -589,13 +589,13 @@
 
     .titulo-tres.mt-5: h3 Ejemplo de registro de gastos
 
-    p.mt-4 Durante el mes de mayo, don josé y su familia llevaron un registro detallado de sus gastos. Esto les ayudó a identificar en qué se utilizó el dinero, detectar oportunidades de ahorro y organizar mejor los meses siguientes.
+    p.mt-4 Durante el mes de mayo, Don José y su familia llevaron un registro detallado de sus gastos. Esto les ayudó a identificar en qué se utilizó el dinero, detectar oportunidades de ahorro y organizar mejor los meses siguientes.
 
     .row.mt-4.align-items-center
       .col-lg-7
         .titulo-sexto.color-acento-contenido.mb-3.mt-4
           h5 Tabla 5. 
-          span Registro de gastos – familia de don josé (mayo)
+          span Registro de gastos – familia de Don José (mayo)
         
         .tabla-a.ajuste___tabla.mb-5.mt-4(data-aos="zoom-in")
           table

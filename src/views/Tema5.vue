@@ -139,7 +139,7 @@
       .col-lg-7
         .titulo-sexto.color-acento-contenido.mb-3.mt-4
           h5 Tabla 6. 
-          span Unidad productiva: finca el buen sembrador. enero – junio
+          span Unidad productiva: finca el buen sembrador. Enero – junio
 
         .tabla-a.ajuste___tabla.mb-5.mt-4(data-aos="zoom-in")
           table
@@ -281,30 +281,30 @@
                     td.text-end $ 300.000
         
 
-      div(titulo="Paso 2.  Anotar todos los costos")
+      div(titulo="Paso 2. Anotar todos los costos")
 
-        p.px-5 Se deben registrar todos los gastos directamente relacionados con la producción, como:
+        p.px-5 Se deben registrar todos los gastos directamente relacionados con la producción, como: 
 
         ul.lista-ul--color.mt-2.px-5
           li.d-flex.align-items-start
             span.icono-img
-            p.mb-0 Semillas
+            p.mb-0 Semillas.
 
           li.d-flex.align-items-start
             span.icono-img
-            p.mb-0 Abonos
+            p.mb-0 Abonos.
 
           li.d-flex.align-items-start
             span.icono-img
-            p.mb-0 Herramientas
+            p.mb-0 Herramientas.
 
           li.d-flex.align-items-start
             span.icono-img
-            p.mb-0 Mano de obra
+            p.mb-0 Mano de obra.
 
           li.d-flex.align-items-start
             span.icono-img
-            p.mb-0 Insumos para animales
+            p.mb-0 Insumos para animales.
 
         .row.mt-4.align-items-center.justify-content-center
           .col-lg-8
@@ -325,19 +325,19 @@
 
                     td.text-start Compra de abono orgánico
 
-                    td.text-end $100.000
+                    td.text-end $ 100.000
 
                   tr(style="background-color: white")
                     td.text-start 5 de enero
 
                     td.text-start Compra de alimento para vacas
 
-                    td.text-end $80.000
+                    td.text-end $ 80.000
 
                   tr(style="background-color: #F6F6F6")
                     td.text-start 10 de enero
                     td.text-start Pago de jornalero
-                    td.text-end $150.000
+                    td.text-end $ 150.000
 
       div(titulo="Paso 3. Anotar todos los gastos")
 
