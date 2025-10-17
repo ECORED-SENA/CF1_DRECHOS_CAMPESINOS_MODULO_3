@@ -166,7 +166,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/TL_DC_M3_RFC_CF01_DU.zip',
+        download: 'downloads/212500_CF01_DU.zip',
       },
       {
         icono: 'fas fa-download',
