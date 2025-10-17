@@ -319,7 +319,7 @@ export default {
       referencia:
         'Defensoría del Pueblo. (2015). <em>Derechos de los campesinos colombianos</em>. Delegada para Asuntos Agrarios y Tierras.',
       link:
-        'https://r.search.yahoo.com/_ylt=Awrjh0V6VfBoIgIAbBurcgx.;_ylu=Y29sbwNiZjEEcG9zAzEEdnRpZAMEc2VjA3Ny/RV=2/RE=1761790586/RO=10/RU=https%3a%2f%2frepositorio.defensoria.gov.co%2fbitstream%2fhandle%2f20.500.13061%2f97%2fCartilla_derechos_de_los_campesinos.pdf%3fsequence%3d1/RK=2/RS=7C.5bRpmiHDNPZ4_k.gJu4JDbX4-',
+        'https://repositorio.defensoria.gov.co/server/api/core/bitstreams/1e46701d-8c73-43b9-9082-55ba8e75f437/content',
     },
     {
       referencia:
