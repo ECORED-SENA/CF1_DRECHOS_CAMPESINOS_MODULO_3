@@ -297,7 +297,7 @@ export default {
     },
     {
       referencia:
-        'UPRAColombia. (2024). <em>Caracterización y tipologías de la agricultura campesina, familiar y comunitaria</em> [video] YouTube. ',
+        'UPRAColombia. (2024). <em>Caracterización de la agricultura campesina, familiar y comunitaria</em> [video] YouTube. ',
       link: 'https://www.youtube.com/watch?v=9hgCFR98d7Y',
     },
     {
@@ -318,7 +318,8 @@ export default {
     {
       referencia:
         'Defensoría del Pueblo. (2015). <em>Derechos de los campesinos colombianos</em>. Delegada para Asuntos Agrarios y Tierras.',
-      link: 'https://www.defensoria.gov.co/agrarios-tierras',
+      link:
+        'https://r.search.yahoo.com/_ylt=Awrjh0V6VfBoIgIAbBurcgx.;_ylu=Y29sbwNiZjEEcG9zAzEEdnRpZAMEc2VjA3Ny/RV=2/RE=1761790586/RO=10/RU=https%3a%2f%2frepositorio.defensoria.gov.co%2fbitstream%2fhandle%2f20.500.13061%2f97%2fCartilla_derechos_de_los_campesinos.pdf%3fsequence%3d1/RK=2/RS=7C.5bRpmiHDNPZ4_k.gJu4JDbX4-',
     },
     {
       referencia:

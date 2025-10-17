@@ -54,7 +54,7 @@
           .row.mt-2
             figure
               .video
-                iframe(width="560" height="315" src="https://www.youtube.com/embed/deoc5fCUSqM?si=4AWsBh92kH2i6tCN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+                iframe(width="560" height="315" src="https://www.youtube.com/embed/deoc5fCUSqM?si=PyO2czjCHlOUdkgd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
     .tarjeta.bg-6.p-4.mt-4
       .row.justify-content-around.align-items-center

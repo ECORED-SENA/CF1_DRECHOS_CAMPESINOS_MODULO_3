@@ -369,7 +369,7 @@
         figure
           img(src='@/assets/curso/tema4/img23.png', alt='', style="width: 295px").m-auto
 
-    p.mt-4 Con estos datos, Don Luis sabe que debe vender su cosecha por más de $750.000 si quiere cubrir sus costos y generar una ganancia.
+    p.mt-4 Con estos datos, Don Luis sabe que debe vender su cosecha por más de $ 750.000 si quiere cubrir sus costos y generar una ganancia.
 
     .row.align-items-center.mt-4.justify-content-center
       .col-lg-5.d-lg-block.d-none

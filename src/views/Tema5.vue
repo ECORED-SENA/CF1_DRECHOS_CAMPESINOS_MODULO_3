@@ -240,7 +240,7 @@
 
 
     AcordionA(tipo="a" clase-tarjeta="tarjeta bg-24")
-      .row(titulo="Paso 1.  Anotar todos los ingresos")
+      .row(titulo="Paso 1. Anotar todos los ingresos")
 
         p.mb-0.px-5 Registrar cada entrada de dinero, sea por ventas o apoyos, es el primer paso. Es importante incluir siempre:
         p.mb-0.px-5 Fecha
@@ -433,7 +433,7 @@
         p.px-5 $ 1.000.000 − ($ 330.000 + $ 70.000) = $ 600.000
 
         p.px-5.mb-0.fw-bold Resultado final:
-        p.px-5 Don Anselmo obtuvo una ganancia de $600.000 en el mes de enero.
+        p.px-5 Don Anselmo obtuvo una ganancia de $ 600.000 en el mes de enero.
 
     .titulo-tres.mt-5: h3 Consejos prácticos para elaborar un buen informe
 
@@ -637,7 +637,7 @@
       .col-lg-4.d-flex.flex-column.justify-content-end.mt-4
         .row.p-4.bg-21
           p.mb-0.fw-bold Cálculo:
-          p $ 3.200.000 − ($ 1.000.000 + $ 250.000) = $ 1.950.000
+          p $ 2.500.000 − ($ 1.500.000 + $ 400.000) = $ 600.000
 
 
 
