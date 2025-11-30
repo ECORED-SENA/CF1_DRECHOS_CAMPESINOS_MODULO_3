@@ -5,16 +5,47 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 2
-      h1 Normas contables y tributarias aplicables a las unidades campesinas
+      h1 Reconocimiento de la economía campesina y su contexto de normas contables y tributarias
 
-    .row.justify-content-center.mt-4
-      .col-lg-10(data-aos="fade-down")
-        .row.d-flex.align-items-center.bg-11(data-aos="fade-right")
-          .col-lg-auto.pe-lg-0.mb-4.mb-xl-0.d-flex.d-none.d-lg-block
-            figure.m-0.p-0.w-100.h-100.d-flex
-              img(src='@/assets/curso/tema2/img1.png', alt='', class="w-100 h-100 object-fit-cover", style="margin-left:-10px")
-          .col-lg
-            p Cuando una unidad campesina crece, empieza a relacionarse con normas que regulan la actividad económica. Esta sección ofrece una guía sencilla para identificar las principales obligaciones contables y tributarias, entendiendo cuándo y cómo aplican. Se busca que los campesinos puedan formalizar su actividad si así lo desean, aprovechar beneficios y evitar complicaciones legales, siempre desde un enfoque claro y adaptado a su realidad.
+    .row.align-items-center
+      .col-lg-8
+        p Una unidad campesina se entiende como un conjunto familiar o comunitario que organiza su producción agrícola, pecuaria o mixta para sostener la vida cotidiana y generar ingresos. Su economía se gestiona mediante prácticas que combinan saberes tradicionales, trabajo familiar, uso racional del suelo, ciclos productivos propios y decisiones orientadas a garantizar estabilidad alimentaria y comercial. En este tipo de organización, las finanzas suelen manejarse de manera directa, con registros básicos y decisiones centradas en el equilibrio entre producción, autoconsumo y mercado. 
+        .row.justify-content-center.mt-4
+          .col-lg-12(data-aos="fade-down")
+            .row.d-flex.align-items-center.bg-11(data-aos="fade-right")
+              .col-lg-auto.pe-lg-0.mb-4.mb-xl-0.d-flex.d-none.d-lg-block
+                figure.m-0.p-0.w-100.h-100.d-flex
+                  img(src='@/assets/curso/tema2/img1.png', alt='', class="w-100 h-100 object-fit-cover", style="margin-left:-10px")
+              .col-lg
+                p En el plano normativo, las unidades campesinas pueden relacionarse con reglas contables y tributarias cuando su actividad crece, cuando desean acceder a programas de apoyo estatal, o cuando buscan formalizarse para fortalecer su comercialización. Aquí se incluyen obligaciones como el Registro Único Tributario (RUT), la inscripción en el régimen tributario correspondiente, el manejo de facturación y, según el caso, la contabilidad simplificada o los libros obligatorios que exige la normatividad colombiana vigente.
+
+      .col-lg-4.d-none.d-lg-block
+        figure
+          img(src='@/assets/curso/tema2/img27.png', alt='', style="width: 400px").m-auto  
+
+    p.mt-4 Para entender este proceso, es clave diferenciar entre formalidad e informalidad económica dentro de la economía campesina. 
+
+    TabsC.color-acento-contenido.mt-4
+      .py-3.py-md-4.bg-23(titulo="La informalidad ")
+        .row
+          .col-md-6.mb-4.mb-md-0
+            figure
+              img(src='@/assets/curso/tema2/img28.png', alt='')
+
+          .col-md-6
+            h4 La informalidad
+            p La informalidad aparece cuando la actividad productiva opera sin registro, sin obligaciones tributarias y sin integración a los sistemas oficiales. Esta situación es común porque muchas unidades campesinas trabajan a pequeña escala, con ingresos fluctuantes y con barreras de acceso a trámites o tecnologías. Aunque la informalidad permite flexibilidad, también limita la participación en mercados más amplios, reduce la posibilidad de acceder a créditos y restringe el aprovechamiento de beneficios del Estado. 
+
+      .py-3.py-md-4.bg-23(titulo="La formalidad ")
+        .row
+          .col-md-6.mb-4.mb-md-0
+            figure
+              img(src='@/assets/curso/tema2/img29.png', alt='')
+
+          .col-md-6
+            h4 La formalidad 
+            p La formalidad, por su parte, se vincula con el cumplimiento de los requisitos legales mínimos: registro ante la DIAN, inscripción en el régimen pertinente, facturación y, en algunos casos, contabilidad simplificada. Este paso no implica abandonar la identidad campesina; al contrario, permite fortalecerla al abrir puertas a programas de fomento, compras públicas, certificaciones, créditos rurales y relaciones comerciales estables. 
+
 
     separador
     #t_2_1.titulo-segundo.color-acento-contenido

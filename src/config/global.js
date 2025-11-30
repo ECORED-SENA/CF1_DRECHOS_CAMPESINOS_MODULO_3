@@ -40,7 +40,7 @@ export default {
         nombreRuta: 'tema2',
         numero: '2',
         titulo:
-          'Normas contables y tributarias aplicables a las unidades campesinas',
+          'Reconocimiento de la economía campesina y su contexto de normas contables y tributarias',
         desarrolloContenidos: true,
         subMenu: [
           {

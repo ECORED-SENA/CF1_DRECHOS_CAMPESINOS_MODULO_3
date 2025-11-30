@@ -598,7 +598,7 @@
                     p.text-center.mb-0 Evaluar si los ingresos crecen o si los costos y gastos están consumiendo las ganancias.
 
 
-    .titulo-tres.m-neg: h3 Ejemplo de interpretación
+    .titulo-tres.m-neg.mt-4: h3 Ejemplo de interpretación
 
     p.mt-4 Don Manuel llevó el control contable de su finca durante tres meses. Estos fueron sus resultados:
 
@@ -641,7 +641,7 @@
 
 
 
-    .titulo-tres.m-neg: h3 Interpretación sencilla
+    .titulo-tres.m-neg.mt-4: h3 Interpretación sencilla
 
     p.mt-4 Don Manuel obtuvo una ganancia de $ 600.000. Sin embargo, considera que el margen fue bajo en relación con el esfuerzo invertido. Al analizar el informe, detecta que gastó más de $ 200.000 en transporte. Como medida, decide coordinar viajes compartidos con otros campesinos para reducir este gasto en el próximo ciclo. Las decisiones que pueden tomarse tras la interpretación son: 
 
@@ -722,6 +722,253 @@
           b Consejo final
 
         p Interpretar el informe contable no es complicado. Basta con leer con atención, comparar los ingresos con los egresos y pensar en formas de mejorar. Un campesino que interpreta sus números no solo cultiva la tierra: también cultiva su futuro con sabiduría.
+
+
+    separador
+    #t_5_4.titulo-segundo.color-acento-contenido
+      h2 5.4 Activos monetarios y no monetarios en la economía campesina 
+
+    .bloque-texto-g.color-acento-contenido.p-3.p-sm-4.p-md-5
+      .bloque-texto-g__img(
+        :style="{'background-image': `url(${require('@/assets/curso/tema5/img27.png')})`}"
+      )
+      .bloque-texto-g__texto.p-4
+        p.mb-0 La economía campesina no se sostiene únicamente en dinero o herramientas. Su estabilidad y persistencia dependen de un conjunto diverso de activos que incluyen recursos monetarios, bienes no monetarios, relaciones comunitarias, condiciones ambientales y la organización familiar. Reconocer todos estos elementos permite comprender de manera más completa cómo funciona la vida productiva campesina y por qué su sostenibilidad no se mide únicamente en términos financieros. 
+
+    .titulo-tres.m-neg.mt-4: h3 Activos monetarios 
+
+    p.mt-3 Los activos monetarios son los recursos financieros disponibles para la unidad campesina. Incluyen: 
+
+    .row.align-items-center.mt-4
+      .col-lg-4.d-lg-block.d-none
+        figure
+          img(src='@/assets/curso/tema5/img28.png', alt='', style="width: 400px").m-auto
+
+      .col-lg-5
+        .row.p-2.bg-24
+
+          ul.lista-ul--color.mt-2.px-4
+            li.d-flex.align-items-start.p-1.bg-7
+              span.icono-img
+              p.mb-0 Dinero en efectivo. 
+
+
+            li.d-flex.align-items-start.p-1.bg-7
+              span.icono-img
+              p.mb-0 Ahorros en cuentas formales o cajas comunitarias. 
+
+
+            li.d-flex.align-items-start.p-1.bg-7
+              span.icono-img
+              p.mb-0 Ingresos por ventas de productos agrícolas, pecuarios o transformados. 
+
+
+            li.d-flex.align-items-start.p-1.bg-7
+              span.icono-img
+              p.mb-0 Créditos vigentes otorgados por cooperativas o entidades solidarias. 
+
+    p.mt-4 Estos activos ayudan a cubrir necesidades inmediatas, sostener ciclos productivos, invertir en insumos y afrontar emergencias. También permiten participar en programas de microfinanzas solidarias que requieren algún nivel de ahorro o aporte periódico. 
+
+    .titulo-tres.m-neg.mt-4: h3 Activos no monetarios 
+
+    p.mt-4 Los activos no monetarios representan la riqueza estructural de la unidad campesina y suelen ser más estables que el dinero. Dentro de ellos se encuentran: 
+
+    .row.bg-5.mt-4
+      .col-12
+        .p-5
+          .tarjeta.tarjeta--azul.mb-6(style='background-color: white !important')
+            .p-4.p-lg-5
+              SlyderA(tipo="b")
+                .row.justify-content-center.align-items-center.my-lg-4
+                  .col-md-7.mb-4.mb-md-0.mt-lg-0.mt-4
+                    p
+                      b Tierra 
+
+                    p La tierra funciona como el activo no monetario central. Aporta espacio para cultivos, crianzas, recolección y transformación. Su valor va más allá del precio comercial, porque garantiza alimento, permanencia territorial y continuidad cultural. 
+
+                  .col-md-5
+                    figure
+                      img(src='@/assets/curso/tema5/img29.png', alt='')
+
+
+                
+                .row.justify-content-center.align-items-center.my-lg-4
+                  .col-md-7.mb-4.mb-md-0.mt-lg-0.mt-4
+                    p
+                      b Medioambiente 
+
+                    p Incluye fertilidad del suelo, fuentes de agua, biodiversidad, zonas de bosque y sistemas de sombra. Estos elementos aportan fertilidad natural, control biológico, disponibilidad hídrica y resiliencia ante variaciones climáticas, lo que disminuye costos y fortalece la sostenibilidad. 
+
+                  .col-md-5
+                    figure
+                      img(src='@/assets/curso/tema5/img30.png', alt='')
+
+
+                .row.justify-content-center.align-items-center.my-lg-4
+                  .col-md-7.mb-4.mb-md-0.mt-lg-0.mt-4
+                    p
+                      b Tejido social 
+
+                    p El tejido social campesino actúa como un activo estratégico. Aporta redes de apoyo, intercambio de saberes, ayudas mutuas, mingas, asociaciones y cooperativas. Este capital relacional facilita la comercialización, el crédito solidario, la circulación de productos y la solución colectiva de dificultades. 
+
+                  .col-md-5
+                    figure
+                      img(src='@/assets/curso/tema5/img31.png', alt='')
+
+
+                .row.justify-content-center.align-items-center.my-lg-4
+                  .col-md-7.mb-4.mb-md-0.mt-lg-0.mt-4
+                    p
+                      b Unidad doméstica familiar 
+
+                    p La unidad familiar articula conocimientos tradicionales, fuerza laboral, organización cotidiana, vivienda, autocuidado y prácticas comunitarias. Su aporte sostiene cada ciclo productivo y mantiene la economía campesina a lo largo del año. 
+
+                  .col-md-5
+                    figure
+                      img(src='@/assets/curso/tema5/img32.png', alt='')
+
+    .titulo-tres.m-neg.mt-4: h3 Relación entre estos activos y la sostenibilidad campesina 
+
+    p.mt-4 Cuando los activos monetarios y no monetarios se combinan adecuadamente, la unidad campesina logra estabilidad. Esto ocurre porque: 
+
+    .row.align-items-center
+      .col-lg-3.mb-4.mb-lg-0
+        .crd.crd--grayGrad.h-tarj3(data-aos="flip-left")
+          .mb-3
+            figure
+              img(src="@/assets/curso/tema5/img33.svg", alt="alt", style="width: 92px").m-auto
+          p.text-center
+            El dinero permite operar cada ciclo productivo.
+
+      .col-lg-3.mb-4.mb-lg-0
+        .crd.crd--grayGrad.h-tarj3(data-aos="flip-left")
+          .mb-3
+            figure
+              img(src="@/assets/curso/tema5/img34.svg", alt="alt", style="width: 92px").m-auto
+          p.text-center
+            La tierra y el medioambiente sostienen la producción a largo plazo.
+
+      .col-lg-3.mb-4.mb-lg-0
+        .crd.crd--grayGrad.h-tarj3(data-aos="flip-left")
+          .mb-3
+            figure
+              img(src="@/assets/curso/tema5/img35.svg", alt="alt", style="width: 92px").m-auto
+          p.text-center
+            El tejido social facilita el intercambio, la cooperación y el acceso a apoyos.
+
+      .col-lg-3.mb-4.mb-lg-0
+        .crd.crd--grayGrad.h-tarj3(data-aos="flip-left")
+          .mb-3
+            figure
+              img(src="@/assets/curso/tema5/img36.svg", alt="alt", style="width: 92px").m-auto
+          p.text-center
+            La unidad familiar aporta el trabajo y la organización diaria.
+
+    p.mt-5 La suma de estos factores produce resiliencia económica y capacidad de persistir incluso cuando los mercados son inestables o los precios cambian. 
+
+    .titulo-tres.m-neg.mt-4: h3 Microfinanzas solidarias como soporte de estos activos 
+
+    p.mt-4 Las microfinanzas solidarias, tal como se presentan en experiencias latinoamericanas recientes, reconocen que las familias campesinas no solo trabajan con dinero, sino con una combinación de activos que sostienen su vida productiva. Este enfoque propone: 
+
+    .row.align-items-center.mt-4
+      .col-lg-4.d-lg-block.d-none
+        figure
+          img(src='@/assets/curso/tema5/img37.png', alt='', style="width: 400px").m-auto
+
+      .col-lg-8
+        .row.p-2.bg-6
+
+          ul.lista-ul--color.mt-2.px-4
+            li.d-flex.align-items-start.p-1.bg-7
+              span.icono-img
+              p.mb-0 Créditos basados en confianza comunitaria. 
+
+
+            li.d-flex.align-items-start.p-1.bg-7
+              span.icono-img
+              p.mb-0 Ahorro colectivo que sirve como respaldo para los préstamos. 
+
+
+            li.d-flex.align-items-start.p-1.bg-7
+              span.icono-img
+              p.mb-0 Procesos de formación financiera y técnica. 
+
+
+            li.d-flex.align-items-start.p-1.bg-7
+              span.icono-img
+              p.mb-0 Flexibilidad en pagos según ciclos productivos. 
+
+            li.d-flex.align-items-start.p-1.bg-7
+              span.icono-img
+              p.mb-0 Valoración de la organización familiar y comunitaria como garantía social. 
+
+        p.mt-4 Este tipo de financiamiento no exige garantías bancarias tradicionales. En su lugar, reconoce la tierra, el trabajo familiar, la historia productiva y el apoyo comunitario como recursos que respaldan la actividad campesina. Gracias a este modelo, las unidades campesinas pueden acceder a préstamos sin poner en riesgo su patrimonio esencial y, al mismo tiempo, fortalecer su capacidad de ahorro, inversión y estabilidad económica. 
+
+    .titulo-tres.m-neg.mt-4: h3 Integración de estos activos en los informes contables campesinos 
+
+    p.mt-4 Para que el análisis económico sea más completo, los informes contables deben incluir no solo los ingresos y egresos monetarios, sino también información sobre: 
+
+    .row.align-items-center.justify-content-center
+      .col-lg-3.mb-4.mb-lg-0
+        .crd.crd--grayGrad.h-tarj6(data-aos="flip-left")
+          .mb-3
+            figure
+              img(src="@/assets/curso/tema5/img38.svg", alt="alt", style="width: 92px").m-auto
+          p.text-center Condición y uso de la tierra.
+
+      .col-lg-3.mb-4.mb-lg-0
+        .crd.crd--grayGrad.h-tarj6(data-aos="flip-left")
+          .mb-3
+            figure
+              img(src="@/assets/curso/tema5/img39.svg", alt="alt", style="width: 92px").m-auto
+          p.text-center Disponibilidad de agua y características del suelo.
+
+      .col-lg-3.mb-4.mb-lg-0
+        .crd.crd--grayGrad.h-tarj6(data-aos="flip-left")
+          .mb-3
+            figure
+              img(src="@/assets/curso/tema5/img40.svg", alt="alt", style="width: 92px").m-auto
+          p.text-center Participación en cooperativas o grupos solidarios.
+
+
+    .row.align-items-center.justify-content-center.mt-4
+      .col-lg-3.mb-4.mb-lg-0
+        .crd.crd--grayGrad.h-tarj6(data-aos="flip-left")
+          .mb-3
+            figure
+              img(src="@/assets/curso/tema5/img41.svg", alt="alt", style="width: 92px").m-auto
+          p.text-center Trabajo familiar disponible en cada ciclo.
+
+      .col-lg-3.mb-4.mb-lg-0
+        .crd.crd--grayGrad.h-tarj6(data-aos="flip-left")
+          .mb-3
+            figure
+              img(src="@/assets/curso/tema5/img42.svg", alt="alt", style="width: 92px").m-auto
+          p.text-center Prácticas ambientales que reducen costos.
+
+      .col-lg-3.mb-4.mb-lg-0
+        .crd.crd--grayGrad.h-tarj6(data-aos="flip-left")
+          .mb-3
+            figure
+              img(src="@/assets/curso/tema5/img43.svg", alt="alt", style="width: 92px").m-auto
+          p.text-center Redes de apoyo que fortalecen la producción.
+
+    .row.align-items-center.mt-4
+      .col-lg-9
+        p Aunque muchos de estos elementos no se expresan en cifras, sí influyen en las decisiones productivas, en la rentabilidad y en el acceso al crédito solidario.  Reconocer los activos monetarios y no monetarios permite tener una visión más justa y completa de la economía campesina. La tierra, el medioambiente, el tejido social y la unidad familiar son pilares que sostienen la vida productiva y fortalecen la capacidad de las familias para enfrentar desafíos. Cuando estos activos se articulan con mecanismos de microfinanzas solidarias, las unidades campesinas ganan autonomía, estabilidad y oportunidades reales de crecimiento. 
+
+        .row.mt-4.align-items-center.bg-21.p-2
+          .col-lg-2.d-lg-block.d-none
+            figure
+              img(src="@/assets/curso/tema5/img44.svg", alt="", style="width: 112px").m-auto
+
+          .col-lg-10
+            p.mb-0 Los invitamos a leer el artículo disponible en el material complementario titulado “Microfinanzas solidarias: alternativa para mejoramiento del desarrollo con personas en situación de pobreza. Estudio de caso Medellín”, el cual ofrece elementos valiosos para comprender cómo las microfinanzas solidarias fortalecen procesos económicos y comunitarios en territorios populares. 
+
+      .col-lg-3.d-lg-block.d-none
+        figure
+          img(src='@/assets/curso/tema5/img45.png', alt='', style="width: 300px").m-auto
+
 
 
 

@@ -235,11 +235,13 @@
 
     .titulo-tres.mt-5: h3 Ejemplo de cálculo del patrimonio
 
-    p.mt-4 A continuación, se presenta un ejemplo práctico que ilustra cómo calcular el patrimonio en una unidad campesina:
+    p.mt-4 Para comprender mejor el patrimonio, es útil considerar que una unidad campesina no depende de una sola actividad. Su sostenibilidad se basa en un balance diversificado de actividades agrícolas, pecuarias, transformaciones artesanales y, en algunos casos, ingresos complementarios por trabajos temporales o ventas estacionales. Este conjunto de fuentes crea resiliencia económica y permite que la familia mantenga estabilidad durante todo el año. 
 
-    .tablas-familia
-      .row
-        .col-lg-6
+    p.mt-4 A continuación se presenta un ejemplo que integra este enfoque: 
+
+    .tablas-familia.bg-25
+      .row.justify-content-center
+        .col-lg-8
           .tabla-responsive
             .titulo-sexto.color-acento-contenido.mb-3.mt-4
               h5 Tabla 1. 
@@ -251,26 +253,85 @@
                   th Valor estimado
               tbody
                 tr
-                  td Parcela de tierra
+                  td Parcela principal para cultivos mixtos 
                   td.text-end $ 20 millones
                 tr
-                  td Herramientas y maquinaria
+                  td Lote pequeño para hortalizas orgánicas 
                   td.text-end $ 3 millones
                 tr
-                  td Ganado (vacas y cerdos)
-                  td.text-end $ 5 millones
+                  td Herramientas y maquinaria (motosierra, fumigadora, carretilla) 
+                  td.text-end $ 3 millones
                 tr
-                  td Dinero en efectivo ahorrado
+                  td Ganado menor (gallinas ponedoras, 2 cerdos) 
                   td.text-end $ 2 millones
-                tr.fw-bold
-                  td Total de activos
-                  td.text-end $ 30 millones
 
-        .col-lg-6
+                tr.fw-bold
+                  td Semillas almacenadas para el próximo ciclo 
+                  td.text-end $ 0,5 millones 
+
+                tr 
+                  td Inventario de productos transformados (queso, mermeladas, panela) 
+                  td.text-end $ 1 millón 
+
+                tr.fw-bold
+                  td Ahorros generados por ventas de temporada 
+                  td.text-end $ 2 millones 
+
+                tr
+                  td Total de activos 
+                  td.text-end $ 31,5 millones 
+
+
+    .titulo-tres.mt-5: h3 Ingresos estacionales que fortalecen la sostenibilidad 
+
+    p.mt-4 Aunque estos ingresos no se suman como activos, sí explican cómo la familia mantiene flujo económico durante el año: 
+
+
+    .row.align-items-center.mt-4.justify-content-center
+      .col-lg-4.d-lg-block.d-none
+        figure
+          img(src='@/assets/curso/tema3/img24.png', alt='', style="width: 400px").m-auto
+
+      .col-lg-8
+        .row.p-4.bg-20
+
+          ul.lista-ul--color.mt-2.px-4
+            li.d-flex.align-items-start.p-1.bg-7
+              span.icono-img
+              p.mb-0 Venta de café en cosecha. 
+
+            li.d-flex.align-items-start.p-1.bg-7
+              span.icono-img
+              p.mb-0 Venta de hortalizas semanales en plaza local. 
+
+
+            li.d-flex.align-items-start.p-1.bg-7
+              span.icono-img
+              p.mb-0 Producción de huevos para consumo y venta. 
+
+
+            li.d-flex.align-items-start.p-1.bg-7
+              span.icono-img
+              p.mb-0 Elaboración de productos transformados (queso, panela, mermeladas). 
+
+
+            li.d-flex.align-items-start.p-1.bg-7
+              span.icono-img
+              p.mb-0 Trabajo ocasional del jefe de hogar en fincas vecinas en época de poda o cosecha. 
+
+            li.d-flex.align-items-start.p-1.bg-7
+              span.icono-img
+              p.mb-0 Venta esporádica de animales. 
+
+    p.mt-4 Estos ingresos sostienen el ahorro, cubren deudas y permiten mantener la unidad en funcionamiento estable. 
+
+    .tablas-familia.bg-25
+      .row.justify-content-center
+        .col-lg-8
           .tabla-responsive
             .titulo-sexto.color-acento-contenido.mb-3.mt-4
               h5 Tabla 2. 
-              span Pasivos de la familia campesina
+              span  Pasivos de la familia campesina
             table
               thead
                 tr
@@ -278,15 +339,20 @@
                   th Valor estimado
               tbody
                 tr
-                  td Préstamo bancario
+                  td Préstamo bancario para mejorar sistema de riego 
+
                   td.text-end $ 4 millones
                 tr
-                  td Deuda con proveedor de abonos
-                  td.text-end $ 1 millón
-                tr.fw-bold
-                  td Total de pasivos
-                  td.text-end $ 5 millones
+                  td Deuda con proveedor de fertilizantes orgánicos 
 
+                  td.text-end $ 1 millón
+                tr
+                  td Crédito con cooperativa para compra de gallinas ponedoras 
+
+                  td.text-end $ 0,8 millones
+                tr
+                  td Total de pasivos 
+                  td.text-end $ 5.8 millones
 
     .row.mt-4.justify-content-center
       .col-lg-8
@@ -297,7 +363,7 @@
           .col-lg-10
             p 
               b Cálculo del patrimonio final:
-            p $ 30 millones (activos) − $ 5 millones (pasivos) = #[b $ 25 millones de patrimonio].
+            p $ 31,5 millones (activos) − $ 5,8 millones (pasivos) = #[b $ 25,7 millones de patrimonio].
 
 
     .titulo-tres.mt-5: h3 ¿Por qué es importante conocer el patrimonio?
